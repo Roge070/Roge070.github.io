@@ -1,0 +1,60 @@
+body {
+	background: rgb(222, 222, 222);
+	font-family: lato;
+	margin: 0;
+}
+
+h1 {
+	border: 2px solid black;
+	background: pink;
+	padding: 20px;
+	margin: auto;
+	margin-bottom: 30px;
+	text-align: center;
+
+}
+
+h3{
+	text-align: center;
+}
+
+p {
+	font-size: 25px;
+}
+
+
+#footer {
+	color: pink;
+	margin: auto;
+	border: 2px solid pink;
+	margin: 10px;
+	padding:10px;
+
+}
+
+#container {
+	width: 1000px;
+	margin: auto;
+	background: rgb(222,222,222);
+}
+
+#ga-logo{
+	width: 100px;
+}
+
+#ga-text {
+	color: red;
+}
+
+#logo {
+	text-align: center;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.background {
+	background: pink;
+	margin: auto;
+}
